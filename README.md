@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **9759176595/9759176595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-Hi there, I'm Raj Kamal Shakya - aka Raj 👋
+
+<!-- Hi there, I'm Raj Kamal Shakya - aka Raj 👋
 I'm a Student🎓, Undergraduate, Developer....
 
 
@@ -25,3 +25,4 @@ I'm a Student🎓, Undergraduate, Developer....
 
 Connect with me:
 rajkamalshakya2000@gmail.com
+ -->
