@@ -18,10 +18,10 @@ Hi there, I'm Raj Kamal Shakya - aka Raj 👋
 I'm a Student🎓, Undergraduate, Developer....
 
 
-🔭 I’m currently working on a my final year project!
-🌱 I’m currently learning Fullstack and Machine Learning
-👯 I’m looking to collaborate with other content creators
-⚡ Fun fact: I love to play cricket and listen music.
+-🔭 I’m currently working on a my final year project!
+-🌱 I’m currently learning Fullstack and Machine Learning
+-👯 I’m looking to collaborate with other content creators
+-⚡ Fun fact: I love to play cricket and listen music.
 
 Connect with me:
 rajkamalshakya2000@gmail.com
