@@ -10,7 +10,7 @@ I'm Data Science enthusiast and work in Data Science team in HAVELLS INDIA LIMIT
 - 🌱 I’m currently learning advance Machine Learning and Deep learning
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about WEB DEVELOPMENT
+- 💬 Ask me about how to filter out Diamond from Data 
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact:  I love to play cricket and listen music.
